@@ -5,7 +5,7 @@ This project aimed to push the data to multiple servers whenever an some action 
 ## 📸 API Docs Screenshot
 <details>
  <summary>
-    🔎 View
+    🔎 View Sections
  </summary>
     <details>
     <summary>
@@ -27,21 +27,30 @@ This project aimed to push the data to multiple servers whenever an some action 
         ![Home](static/images/Account/account_delete.png)
     </details>
 
-### Destination Create 
-![Home](static/images/Destination/destination_create.png)
+    <details>
+    <summary>
+        🔎 Destination Module APIs
+    </summary>
+        ### Destination Create 
+        ![Home](static/images/Destination/destination_create.png)
 
-### Destination Update 
-![Home](static/images/Destination/destination_update.png)
+        ### Destination Update 
+        ![Home](static/images/Destination/destination_update.png)
 
-### Destination Delete 
-![Home](static/images/Destination/destination_delete.png)
+        ### Destination Delete 
+        ![Home](static/images/Destination/destination_delete.png)
 
-### Destination List 
-![Home](static/images/Destination/destination_list.png)
+        ### Destination List 
+        ![Home](static/images/Destination/destination_list.png)
 
-### Destination Retrieve 
-![Home](static/images/Destination/destination_retrieve.png)
-
-### Data Pushing Webhook 
-![Home](static/images/Webhook/webhook.png)
+        ### Destination Retrieve 
+        ![Home](static/images/Destination/destination_retrieve.png)
+    </details>
+    <details>
+    <summary>
+        🔎 Webhook Module APIs
+    </summary>
+        ### Data Pushing Webhook 
+        ![Home](static/images/Webhook/webhook.png)
+    </details>
 </details>
