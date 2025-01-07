@@ -2,26 +2,30 @@
 
 This project aimed to push the data to multiple servers whenever an some action happened!
 
-## 📸 Screenshot
+## 📸 API Docs Screenshot
 <details>
  <summary>
     🔎 View
  </summary>
+    <details>
+    <summary>
+        🔎 Account Module APIs
+    </summary>
+        ### Account Create
+        ![Home](static/images/Account/account_create.png)
 
-### Account Create
-![Home](static/images/Account/account_create.png)
+        ### Account Retrieve
+        ![Home](static/images/Account/account_retrieve.png)
 
-### Account Retrieve
-![Home](static/images/Account/account_retrieve.png)
+        ### Account List
+        ![Home](static/images/Account/account_list.png)
 
-### Account List
-![Home](static/images/Account/account_list.png)
+        ### Account Update
+        ![Home](static/images/Account/account_update.png)
 
-### Account Update
-![Home](static/images/Account/account_update.png)
-
-### Account Delete
-![Home](static/images/Account/account_delete.png)
+        ### Account Delete
+        ![Home](static/images/Account/account_delete.png)
+    </details>
 
 ### Destination Create 
 ![Home](static/images/Destination/destination_create.png)
